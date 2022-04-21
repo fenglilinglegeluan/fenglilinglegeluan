@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🕶About Me
-<img align="right" wight=170 height=170 src="/fenglilinglegeluan.jpg" />
+
+<img align="right" wight=167 height=167 src="/fenglilinglegeluan.jpg" />
 
  - 🌱 I’m currently learning ...
  - 目前是自由职业
  - 新鲜事物爱好者
  - 热爱生活实用主义
+ 
 # ✨ Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=fenglilinglegeluan&show_icons=true)](https://github-readme-stats.vercel.app/api?username=fenglilinglegeluan&show_icons=true)
