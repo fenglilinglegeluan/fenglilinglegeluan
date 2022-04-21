@@ -22,3 +22,6 @@ Here are some ideas to get you started:
  - 目前是自由职业
  - 新鲜事物爱好者
  - 热爱生活实用主义
+# ✨ Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=fenglilinglegeluan&show_icons=true)](https://github-readme-stats.vercel.app/api?username=fenglilinglegeluan&show_icons=true)
