@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 🕶About Me
 
-<img align="right" wight=193 height=193 src="/fenglilinglegeluan.jpg" />
+<img align="right" wight=180 height=180 src="/fenglilinglegeluan.jpg" />
 
  - 🌱 I’m currently learning ...
  - 目前是自由职业
