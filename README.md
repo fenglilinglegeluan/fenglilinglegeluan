@@ -21,7 +21,8 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning ...
  - 目前是自由职业
  - 新鲜事物爱好者
- - 热爱生活实用主义
+ - 热爱生活
+ - 实用主义
  
 # ✨ Github Stats
 
