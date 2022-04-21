@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🕶About Me
-
-<img align="right" wight=180 height=180 src="/fenglilinglegeluan.jpg" />
+<img align="right" wight=170 height=170 src="/fenglilinglegeluan.jpg" />
 
  - 🌱 I’m currently learning ...
  - 目前是自由职业
