@@ -23,6 +23,7 @@ Here are some ideas to get you started:
  - 新鲜事物爱好者
  - 热爱生活
  - 实用主义
+ - 享受过程大于结果
  
 # ✨ Github Stats
 
